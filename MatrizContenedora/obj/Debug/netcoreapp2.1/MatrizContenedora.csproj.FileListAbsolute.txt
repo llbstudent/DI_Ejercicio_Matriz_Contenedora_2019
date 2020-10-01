@@ -1,0 +1,11 @@
+C:\Users\laura\OneDrive\Documents\CURSOS\Curso DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Entrega\1Entrega-MatrizContenedora\MatrizContenedora\bin\Debug\netcoreapp2.1\MatrizContenedora.deps.json
+C:\Users\laura\OneDrive\Documents\CURSOS\Curso DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Entrega\1Entrega-MatrizContenedora\MatrizContenedora\bin\Debug\netcoreapp2.1\MatrizContenedora.runtimeconfig.json
+C:\Users\laura\OneDrive\Documents\CURSOS\Curso DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Entrega\1Entrega-MatrizContenedora\MatrizContenedora\bin\Debug\netcoreapp2.1\MatrizContenedora.runtimeconfig.dev.json
+C:\Users\laura\OneDrive\Documents\CURSOS\Curso DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Entrega\1Entrega-MatrizContenedora\MatrizContenedora\bin\Debug\netcoreapp2.1\MatrizContenedora.dll
+C:\Users\laura\OneDrive\Documents\CURSOS\Curso DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Entrega\1Entrega-MatrizContenedora\MatrizContenedora\bin\Debug\netcoreapp2.1\MatrizContenedora.pdb
+C:\Users\laura\OneDrive\Documents\CURSOS\Curso DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Entrega\1Entrega-MatrizContenedora\MatrizContenedora\obj\Debug\netcoreapp2.1\MatrizContenedora.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Documents\CURSOS\Curso DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Entrega\1Entrega-MatrizContenedora\MatrizContenedora\obj\Debug\netcoreapp2.1\MatrizContenedora.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive\Documents\CURSOS\Curso DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Entrega\1Entrega-MatrizContenedora\MatrizContenedora\obj\Debug\netcoreapp2.1\MatrizContenedora.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Documents\CURSOS\Curso DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Entrega\1Entrega-MatrizContenedora\MatrizContenedora\obj\Debug\netcoreapp2.1\MatrizContenedora.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Documents\CURSOS\Curso DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Entrega\1Entrega-MatrizContenedora\MatrizContenedora\obj\Debug\netcoreapp2.1\MatrizContenedora.dll
+C:\Users\laura\OneDrive\Documents\CURSOS\Curso DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Entrega\1Entrega-MatrizContenedora\MatrizContenedora\obj\Debug\netcoreapp2.1\MatrizContenedora.pdb
